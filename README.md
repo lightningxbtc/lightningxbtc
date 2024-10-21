@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 * 📫 How to reach me: lightningxbtc@proton.me ...
 * 🚀 Send sats ⚡️`lightningx@getalby.com` ...
 * 📫 How to reach me: lightningxbtc@proton.me, https://t.me/lightningxbtc
-* 👨‍💻 Open for work
+* 👨‍💻 Open for work on anything Lightning Network related
 
